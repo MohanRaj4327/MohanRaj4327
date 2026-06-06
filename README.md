@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**MohanRaj4327/MohanRaj4327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Mohan 👋
+🎓 IT Student
+💻 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- Data Structures and Algorithms
+🚀 Goals
+- Build Real World Projects
+- Become a Full Stack Developer
+- Secure Internship Opportunities
+📚 Learning in Public
+⭐ GitHub: MohanRaj4327   this is my redeme so just give me best version
