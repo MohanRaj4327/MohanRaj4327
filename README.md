@@ -45,6 +45,16 @@ I enjoy turning ideas into useful applications, learning new technologies, and c
 
 ## 🌟 Featured Projects
 
+### 🔬 [Adaptive Reader — AI Eye-Tracking Reading Assistant](./projects/adaptive-reader.md)
+
+**AI-powered accessibility-focused Chrome Extension**
+
+A Chrome Extension that uses webcam-based eye tracking to estimate where a reader is looking and detect when they may be struggling with a difficult word. When the struggle score crosses a threshold, it automatically presents a glass-style definition card and optional text-to-speech assistance.
+
+**Highlights:** MediaPipe iris tracking • 5-point gaze calibration • affine transform • head-movement compensation • struggle scoring • multilingual text-to-speech • Glassmorphism UI
+
+**Tech:** Chrome Manifest V3 • MediaPipe Tasks Vision • Vanilla JavaScript • Web Speech API • Free Dictionary API • CSS
+
 ### 🔥 [FocusForge](https://github.com/MohanRaj4327/Focusforge)
 
 **Productivity & Placement Preparation Platform**
@@ -81,9 +91,9 @@ Java + SQL
           ↓
 HTML + CSS + JavaScript
           ↓
-Database Connectivity
+AI / Computer Vision Projects
           ↓
-Practical Projects
+Practical Software Projects
           ↓
 Internship & Placement Preparation
 ```
