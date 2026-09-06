@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohan Raj
 
-### B.Tech IT Student • Full-Stack Developer • DSA Learner
+### B.Tech IT Student • Java Developer • DSA Learner
 
 I'm an Information Technology student focused on building practical software and strengthening my problem-solving skills through real-world projects and Data Structures & Algorithms.
 
@@ -9,10 +9,11 @@ I enjoy turning ideas into useful applications, learning new technologies, and c
 ## 🚀 About Me
 
 - 🎓 B.Tech Information Technology student
-- 💻 Interested in full-stack web development
+- 💻 Interested in software development
 - 🧠 Practicing Data Structures & Algorithms
-- 🌱 Currently working with React, TypeScript, Java and Spring Boot
-- 🗄️ Learning backend development, REST APIs and PostgreSQL
+- ☕ Working with Java and SQL
+- 🌐 Learning web development with HTML, CSS and JavaScript
+- 🗄️ Working with databases and JDBC
 - 🛠️ Building projects that solve practical problems
 - 🎯 Preparing for software development internships and placements
 - 📚 Learning by building, solving and sharing on GitHub
@@ -22,49 +23,30 @@ I enjoy turning ideas into useful applications, learning new technologies, and c
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### Backend & Database
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## 🌟 Featured Projects
 
 ### 🔥 [FocusForge](https://github.com/MohanRaj4327/Focusforge)
 
-**Full-Stack Productivity & Placement Preparation Platform**
+**Productivity & Placement Preparation Platform**
 
-A platform that brings DSA preparation, daily scheduling, revision, productivity tracking and milestone management into one application.
-
-**Tech:** React • TypeScript • Java 21 • Spring Boot • PostgreSQL • Spring Security • JWT
-
-**Highlights:**
-- 175-problem DSA preparation roadmap
-- Daily time-blocking and schedule management
-- DSA problem tracking and spaced repetition
-- Productivity and milestone tracking
-- Notes / notebook functionality
-- JWT-based authentication
-- REST API architecture
-- Deployed web application
+A platform for DSA preparation, daily scheduling, revision, productivity tracking and milestone management.
 
 ### 🧠 [LeetCode Solutions](https://github.com/MohanRaj4327/Leetcode-Solutions-)
 
@@ -92,13 +74,13 @@ An interactive space-exploration website built to strengthen my frontend develop
 ```text
 Data Structures & Algorithms
           ↓
-React + TypeScript
+Java + SQL
           ↓
-Java + Spring Boot
+HTML + CSS + JavaScript
           ↓
-REST APIs + PostgreSQL
+Database Connectivity
           ↓
-Full-Stack Projects
+Practical Projects
           ↓
 Internship & Placement Preparation
 ```
@@ -106,8 +88,9 @@ Internship & Placement Preparation
 ## 🎯 2026 Goals
 
 - [ ] Strengthen DSA and problem-solving skills
-- [ ] Build production-quality full-stack applications
-- [ ] Improve Spring Boot and backend development
+- [ ] Improve Java development skills
+- [ ] Build more practical software projects
+- [ ] Learn backend development fundamentals
 - [ ] Learn system design fundamentals
 - [ ] Contribute to open-source projects
 - [ ] Secure a software development internship
