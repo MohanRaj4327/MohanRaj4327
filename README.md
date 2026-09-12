@@ -77,7 +77,7 @@ A growing collection of my Data Structures & Algorithms solutions while preparin
 
 ## 📈 Current Focus
 
-```text
+~~~text
 Data Structures & Algorithms
           ↓
 Java + SQL
@@ -89,3 +89,35 @@ AI / Computer Vision Projects
 Practical Software Projects
           ↓
 Internship & Placement Preparation
+~~~
+
+## 🎯 2026 Goals
+
+- [ ] Strengthen DSA and problem-solving skills
+- [ ] Improve Java development skills
+- [ ] Build more practical software projects
+- [ ] Learn backend development fundamentals
+- [ ] Learn system design fundamentals
+- [ ] Contribute to open-source projects
+- [ ] Secure a software development internship
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanRaj4327&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=MohanRaj4327&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+## 🤝 Connect
+
+<p>
+  <a href="https://github.com/MohanRaj4327">
+    <img src="https://img.shields.io/badge/GitHub-MohanRaj4327-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 💡 Learn • Build • Solve • Repeat
+
+Thanks for visiting my profile! ⭐
