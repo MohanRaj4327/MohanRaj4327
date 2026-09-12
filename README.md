@@ -45,7 +45,7 @@ I enjoy turning ideas into useful applications, learning new technologies, and c
 
 ## 🌟 Featured Projects
 
-### 🔬 [Adaptive Reader — AI Eye-Tracking Reading Assistant](./projects/adaptive-reader.md)
+### 🔬 [Adaptive Reader — AI Eye-Tracking Reading Assistant](https://github.com/MohanRaj4327/Adaptive-Reader-for-Dyslexia-)
 
 **AI-powered accessibility-focused Chrome Extension**
 
@@ -54,6 +54,14 @@ A Chrome Extension that uses webcam-based eye tracking to estimate where a reade
 **Highlights:** MediaPipe iris tracking • 5-point gaze calibration • affine transform • head-movement compensation • struggle scoring • multilingual text-to-speech • Glassmorphism UI
 
 **Tech:** Chrome Manifest V3 • MediaPipe Tasks Vision • Vanilla JavaScript • Web Speech API • Free Dictionary API • CSS
+
+### 🚦 [Unknown Traffic Detection](https://github.com/MohanRaj4327/Unknown-Traffic-Detection)
+
+**Network Traffic Classification & Detection**
+
+A machine learning project focused on analyzing network traffic and identifying unknown or suspicious traffic patterns through traffic classification.
+
+**Tech:** Python • Machine Learning • Network Traffic Analysis
 
 ### 🔥 [FocusForge](https://github.com/MohanRaj4327/Focusforge)
 
@@ -66,21 +74,6 @@ A platform for DSA preparation, daily scheduling, revision, productivity trackin
 A growing collection of my Data Structures & Algorithms solutions while preparing for coding interviews and placements.
 
 **Focus areas:** Arrays • Strings • Linked Lists • Stacks & Queues • Trees • Searching & Sorting • Dynamic Programming • Graphs
-
-### 🚀 [Interstellar Space Exploration](https://github.com/MohanRaj4327/html-css-project)
-
-An interactive space-exploration website built to strengthen my frontend development skills.
-
-**Features:**
-- Space-themed animated interface
-- Background video
-- Interactive mission briefing
-- CSS-only tabs
-- Flip cards
-- Countdown modal
-- Responsive layout
-
-**Tech:** HTML • CSS
 
 ## 📈 Current Focus
 
@@ -96,35 +89,3 @@ AI / Computer Vision Projects
 Practical Software Projects
           ↓
 Internship & Placement Preparation
-```
-
-## 🎯 2026 Goals
-
-- [ ] Strengthen DSA and problem-solving skills
-- [ ] Improve Java development skills
-- [ ] Build more practical software projects
-- [ ] Learn backend development fundamentals
-- [ ] Learn system design fundamentals
-- [ ] Contribute to open-source projects
-- [ ] Secure a software development internship
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanRaj4327&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanRaj4327&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-## 🤝 Connect
-
-<p>
-  <a href="https://github.com/MohanRaj4327">
-    <img src="https://img.shields.io/badge/GitHub-MohanRaj4327-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 💡 Learn • Build • Solve • Repeat
-
-Thanks for visiting my profile! ⭐
